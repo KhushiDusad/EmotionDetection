@@ -4,5 +4,5 @@ This project aims to develop a real-time face emotion recognition system using c
 ## Files Description 
 - The **[EmotionDetection.ipynb](https://github.com/KhushiDusad/EmotionDetection/blob/main/EmotionDetection.ipynb)** file shows the creation of the Facial Emotion Recognition Model.
 - The **[Face Emotion Recognition.ipynb](https://github.com/KhushiDusad/EmotionDetection/blob/main/Face%20Emotion%20Recognition.ipynb)** file shows how to load the model and use it for predicting emotions of images and live video.
-- This is the link to the dataset used for training and testing the model: **[dataset](https://www.dropbox.com/s/nilt43hyl1dx82k/dataset.zip?dl=0 )**
+- You can find the dataset used for training and testing of the model **[here](https://www.dropbox.com/s/nilt43hyl1dx82k/dataset.zip?dl=0 )**
 - The images used for making predictions later on are provided in the **Test Images** folder
